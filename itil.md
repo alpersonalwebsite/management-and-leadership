@@ -22,3 +22,10 @@ Service Management is HOW an organization generates value through its services t
 
 An organization that provides services. Can be internal (like the own company's Help Desk) or external (like AWS)
 
+### Service Consumers
+
+People who consume our services.
+
+1. Customer:
+2. User:
+3. Sponsor: 
