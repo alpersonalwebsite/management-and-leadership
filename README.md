@@ -2,6 +2,8 @@
 
 Slowly (probably slower than I'd like), I will be adding personal notes linked to my `Leadership and Managerial experience`, and, among these, some basic knowledge relative to `IT Management`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpersonalwebsite/management-and-leadership.svg)](https://greenkeeper.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 { TODO }
